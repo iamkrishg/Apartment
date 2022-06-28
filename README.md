@@ -11,14 +11,14 @@ Apartment
 
 ## Requirements
 ***
-User Roles : Admin, Normal User
-For users with Administrative authority can add, edit apartments & Manage Users.
+- User Roles : Admin, Normal User
+- For users with Administrative authority can add, edit apartments & Manage Users.
 
-Screen Name: Registration
+- Screen Name: Registration
 
-Screen Name : Login
+- Screen Name : Login
 
-Screen Name: Home 
+- Screen Name: Home 
 
 -> Apartment Search
 -> Recent Bookings
@@ -27,16 +27,16 @@ Screen Name: Home
 -> Add Apartment(Admin)
 -> Manage Users(Admin)
 
-Screen Name : View Apartment
+- Screen Name : View Apartment
 -> Book Now (paymet service) -> User Rating
 
-Screen Name : Edit Apartment(Admin)
+- Screen Name : Edit Apartment(Admin)
 -> Save
 
-Screen Name : Add Apartment(Admin)
+- Screen Name : Add Apartment(Admin)
 -> Save
 
-Table Name : UserDetails
+- Table Name : UserDetails
 
 Full Name
 EmailID 
@@ -47,7 +47,7 @@ UpdatedUserName
 CreatedDate
 UpdatedDate
 
-Table Name : ApartmentDetails
+- Table Name : ApartmentDetails
 ApartmentId
 ApartmentName 
 Description
@@ -63,7 +63,7 @@ UpdatedUserName
 CreatedDate
 UpdatedDate
 
-Table Name : BookingHistory
+- Table Name : BookingHistory
 ApartmentId
 GuestsCount
 PaymentStatus
