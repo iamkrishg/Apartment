@@ -28,7 +28,7 @@ Apartment
 -> Manage Users(Admin)
 
 - Screen Name : View Apartment
--> Book Now (paymet service) -> User Rating
+-> Book Now (payment service) -> User Rating
 
 - Screen Name : Edit Apartment(Admin)
 -> Save
