@@ -18,7 +18,7 @@ Apartment
 
 - Screen Name : Login
 
-- Screen Name: Home 
+- Screen Name: Home
 
 -> Apartment Search
 -> Recent Bookings
@@ -36,8 +36,7 @@ Apartment
 - Screen Name : Add Apartment(Admin)
 -> Save
 
-- Table Name : UserDetails
-
+- Table Name : UserDetails\
 Full Name\
 EmailID\
 Password\
@@ -47,7 +46,7 @@ UpdatedUserName\
 CreatedDate\
 UpdatedDate
 
-- Table Name : ApartmentDetails
+- Table Name : ApartmentDetails\
 ApartmentId\
 ApartmentName\
 Description\
@@ -61,13 +60,13 @@ UpdatedUserName\
 CreatedDate\
 UpdatedDate
 
-- Table Name : ApartmentPhotos
+- Table Name : ApartmentPhotos\
 ApartmentId\
 PhotoId\
 PhotoType (Interior or Exterior)\
 Photo
 
-- Table Name : BookingHistory
+- Table Name : BookingHistory\
 ApartmentId\
 GuestsCount\
 PaymentStatus\
