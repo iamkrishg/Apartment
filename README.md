@@ -45,30 +45,34 @@ Role\
 CreatedUserName\
 UpdatedUserName\
 CreatedDate\
-UpdatedDate\
-
-- Table Name : ApartmentDetails
-ApartmentId
-ApartmentName 
-Description
-Location
-GuestsCount
-Cost
-Banner 
-Interior Photos
-Exterior Photos
-FinalRating
-CreatedUserName
-UpdatedUserName
-CreatedDate
 UpdatedDate
 
+- Table Name : ApartmentDetails
+ApartmentId\
+ApartmentName\
+Description\
+Location\
+GuestsCount\
+Cost\
+Banner\
+FinalRating\
+CreatedUserName\
+UpdatedUserName\
+CreatedDate\
+UpdatedDate
+
+- Table Name : ApartmentPhotos
+ApartmentId\
+PhotoId\
+PhotoType (Interior or Exterior)\
+Photo
+
 - Table Name : BookingHistory
-ApartmentId
-GuestsCount
-PaymentStatus
-CreatedUserName 
-CreatedDate
+ApartmentId\
+GuestsCount\
+PaymentStatus\
+CreatedUserName\
+CreatedDate\
 UserRating
 
 
