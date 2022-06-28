@@ -38,14 +38,14 @@ Apartment
 
 - Table Name : UserDetails
 
-Full Name
-EmailID 
-Password
-Role
-CreatedUserName
-UpdatedUserName
-CreatedDate
-UpdatedDate
+Full Name\
+EmailID\
+Password\
+Role\
+CreatedUserName\
+UpdatedUserName\
+CreatedDate\
+UpdatedDate\
 
 - Table Name : ApartmentDetails
 ApartmentId
