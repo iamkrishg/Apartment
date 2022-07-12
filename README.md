@@ -9,7 +9,6 @@ Apartment
 4. [Configuration](#configuration)
 5. [FAQs](#faqs)
 
-
 ## Requirements
 ***
 - User Roles : Admin, Normal User
